@@ -1633,9 +1633,7 @@ ul#memberProfileLinks {
 /* code added by shiyas to release ticket 68131 */
 .home-logo-container{
     background-color: white;
-    /* border-bottom: 1px solid #EDEDED; */
-    padding: 10px 0;
-}
+    }
 
 .home-logo {
 	text-align: justify;
@@ -1660,7 +1658,7 @@ ul#memberProfileLinks {
     }
 
 .home-logo img {
-		vertical-align: bottom
+		vertical-align: bottom;
 		display: inline-block;
 		/* width: 75px;
 		margin-left: 20px;
@@ -4526,7 +4524,7 @@ ul.small-btn-list {
     overflow-y: visible;
     position: relative;
     height: 100px;
-    margin-bottom: -140px;
+    margin-bottom: -175px;
 }
 
 /*inner banner with job search*/
