@@ -1642,7 +1642,7 @@ ul#memberProfileLinks {
 	margin-right: 50;
     margin-left: 50;
     display: inline-block;
-    padding: 15px;
+    padding: 15px 15px 0;
 
 	}
 .home-logo > div {
@@ -3710,7 +3710,7 @@ select#ddlLanguages:before {
 }
 
 #dynamic-container {
-    padding-top: 64px;
+    padding-top: 44px;
 }
 
 hr {
