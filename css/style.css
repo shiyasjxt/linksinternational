@@ -1641,6 +1641,7 @@ ul#memberProfileLinks {
     padding-right: 15px; */
 	margin-right: 50;
     margin-left: 50;
+    display: inline-block
 
 	}
 .home-logo > div {
