@@ -3710,7 +3710,7 @@ select#ddlLanguages:before {
 }
 
 #dynamic-container {
-    padding-top: 0px;
+    padding-top: 64px;
 }
 
 hr {
