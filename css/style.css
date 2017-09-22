@@ -1642,7 +1642,7 @@ ul#memberProfileLinks {
 	margin-right: 50;
     margin-left: 50;
     display: inline-block;
-    padding: 40px 15px 0;
+    padding: 30px 15px 0;
 
 	}
 .home-logo > div {
@@ -4526,7 +4526,7 @@ ul.small-btn-list {
     overflow-y: visible;
     position: relative;
     height: 100px;
-    margin-bottom: -140px;
+    margin-bottom: -140llpx;
 }
 
 /*inner banner with job search*/
