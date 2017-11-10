@@ -692,7 +692,7 @@ function blog_posts(obj) {
 
 $(function(){   
        var links = window.location.pathname;
-       if (links.indexOf("/payroll-outsourcing")>-1 || links.indexOf("/secondment-peo-outsourcing")>-1 || links.indexOf("/hro-partners")>-1 || links.indexOf("/referral-partners")>-1 || links.indexOf("/visa-applications")>-1 || links.indexOf("/partners")>-1 || links.indexOf("/other-hr-outsourcing")>-1) {
+       if (links.indexOf("/hr-outsourcing")>-1 || links.indexOf("/payroll-outsourcing")>-1 || links.indexOf("/secondment-peo-outsourcing")>-1 || links.indexOf("/hro-partners")>-1 || links.indexOf("/referral-partners")>-1 || links.indexOf("/visa-applications")>-1 || links.indexOf("/partners")>-1 || links.indexOf("/other-hr-outsourcing")>-1) {
       
               $("li a[href='/partners']").css("display", "block");
        } 
