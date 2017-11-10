@@ -694,7 +694,9 @@ $(function(){
        var links = window.location.pathname;
        if (links.indexOf("/hr-outsourcing")>-1 || links.indexOf("/payroll-outsourcing")>-1 || links.indexOf("/secondment-peo-outsourcing")>-1 || links.indexOf("/hro-partners")>-1 || links.indexOf("/referral-partners")>-1 || links.indexOf("/visa-applications")>-1 || links.indexOf("/partners")>-1 || links.indexOf("/other-hr-outsourcing")>-1) {
       
-              $("li a[href='/partners']").css("display", "block");
+        $(".navbar .nav > li > a").css("font-size", "14px");
+        $("li a[href='/partners']").css("display", "block");
+              
        } 
 
   });
